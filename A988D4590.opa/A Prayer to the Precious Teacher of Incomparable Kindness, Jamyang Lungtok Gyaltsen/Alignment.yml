@@ -1,0 +1,19 @@
+segment_sources:
+  P4148D88A:
+    type: origin_type
+    relation: translation
+    language: en
+  PE08B39D4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  94e0afb70e19443aa0247ca1fc23f4e6:
+    P4148D88A: 5db3d87f47894cd894d1e417bc780030
+    PE08B39D4: 0be9f9c782a54901ab1428eba102b468
+  351b7e3f175646fdb93f6f3d8c2a82c9:
+    P4148D88A: 63ce5f2db2934da694d65c71a20ab070
+    PE08B39D4: 2da1b31bd9654ab9b407b52dc47774dc
+  527e7d39da1747429a82e9362540375a:
+    P4148D88A: 283ae742e7a746ada985616ba2424d0c
+    PE08B39D4: 3ef223ef66f14ba9878c5c8f88835027
